@@ -1,0 +1,11 @@
+#todo-list
+-Add Task
+-Complete Task
+-Database
+-Delete Task
+-Edit Task
+-Index
+-Styling
+-Uncomplete Task
+-Validation
+-Pagination
